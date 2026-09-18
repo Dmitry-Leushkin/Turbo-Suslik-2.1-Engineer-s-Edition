@@ -1,0 +1,17 @@
+# What the Overall Trajectory Tends to Look Like
+
+[Book contents](../README.md) | [Part contents](README.md)
+
+Standardizing something like sustained work on your own mental processes, and predicting in advance how it'll unfold for a specific person, is genuinely hard. People vary enormously - prior experience, level of self-observation, how well they understand what's actually happening, the nature of their specific problems, how tightly attached they are to them. Even though the surface-level difficulty patterns look similar across a lot of people, an individual trajectory is basically impossible to forecast precisely. Any averaged estimate at this point is, at best, a rough approximation - a population-level statistic, not a per-user guarantee.
+
+Running the pace covered earlier - roughly 1–2 protocols a day, usually before sleep, plus 1–2 of your own topics processed daily - expect the first couple of months to feel genuinely tense. Internal material can surface in a dense, near-continuous stream, with occasional pauses that subjectively read as clarity. Pendulum states during this window are common, though not guaranteed - as already covered, some people run through with minimal or close to zero rollback, so intensity and frequency here can't be predicted upfront for any given system.
+
+Sometimes, mid-process, intermediate states show up - some subjectively unusual, even pleasant. A strong sense of connectedness with others, or expanded perception, for instance. Important to be clear: these aren't the goal. **They're side effects, transitional artifacts of a system mid-restructure - not a checkpoint to chase**. Interesting on their own terms, sure, but fixating on them or treating them as some kind of milestone achieved is a mistake. Practice can also produce genuine-feeling insights or new interpretations of how the mind works, or how you perceive reality. Treat these calmly, without inflating their weight. They aren't revelations - they're temporary output from a system currently being rewritten. Any such "insight" should get run through the same pipeline as everything else: whatever has no actual value falls away under processing, and whatever survives scrutiny might turn out to be genuinely useful.
+
+Gradually - usually around two and a half to three months of regular work - the incoming stream of surfacing material noticeably weakens, gaps start appearing in it, and overall state evens out. Holding a stable baseline gets easier, and emotional swing intensity drops. That said, deep structural problems can still be sitting there, resistant to a fast resolution. This is the point to not panic or draw early conclusions - just keep running the same mode.
+
+Later on, a state can emerge where a lot of dysfunctional beliefs and rigid constructs start losing stability almost automatically - pointing attention at them is enough to start them dissolving on their own, no dedicated processing required. During this same window there can be a sense of losing previous reference points, old meanings devaluing, a general sense of meaninglessness. Unpleasant, but a genuinely typical transitional state - not an end state, and not a sign anything's gone wrong. Like every prior stage, it's processable material, and it passes - giving way to something considerably more stable and functional on the other side.
+
+---
+
+[Previous: Fully Independent Work: A Basic Roadmap](02-fully-independent-work-a-basic-roadmap.md) | [Book contents](../README.md) | [Next: Conclusion](../06-conclusion/README.md)
