@@ -22,148 +22,77 @@ The state list is built on **Lester Levenson's Sedona Method** emotional scale (
 
 ## Cluster “Apathy”
 
-detachment
-
-defeated
-
-inactive
-
-inconspicuousness
-
-stuck
-
-loser
-
-what’s the point of trying?
-
-boredom
-
-lack of a sense of humor
-
-helplessness
-
-exhaustion
-
-suppression
-
-nothing depends on me
-
-giving up
-
-resigned
-
-hopelessness
-
-loneliness
-
-I don’t care
-
-lost
-
-disorganized
-
-burned out
-
-defeated
-
-demoralized
-
-shock
-
-powerlessness
-
-hardened
-
-nothing works
-
-laziness
-
-no results
-
-depressed
-
-stunned
-
-bad mood
-
-what’s the point?
-
-despairing
-
-unneeded
-
-failure
-
-cut off
-
-coldness
-
-lack of self-care
-
-too late
-
-indecision
-
-worthlessness
-
-submissiveness
-
-inability to concentrate
-
-I can’t win
-
-disappointment
-
-denial
-
-I expect nothing from life
-
-efforts are meaningless
-
-absent-mindedness
-
-I can’t
-
-uselessness
-
-forgotten
-
-sluggish
-
-joylessness
-
-hopeless
-
-depression
-
-emotional coldness
-
-discouragement
-
-disorientation
-
-inattention
-
-low self-esteem
-
-indifference
-
-dead tired
-
-numbness
-
-fatigue
-
-loss
-
-compliance
-
-suspiciousness
-
-insensitivity
-
-apathy
-
+detachment<br>
+defeated<br>
+inactive<br>
+inconspicuousness<br>
+stuck<br>
+loser<br>
+what’s the point of trying?<br>
+boredom<br>
+lack of a sense of humor<br>
+helplessness<br>
+exhaustion<br>
+suppression<br>
+nothing depends on me<br>
+giving up<br>
+resigned<br>
+hopelessness<br>
+loneliness<br>
+I don’t care<br>
+lost<br>
+disorganized<br>
+burned out<br>
+defeated<br>
+demoralized<br>
+shock<br>
+powerlessness<br>
+hardened<br>
+nothing works<br>
+laziness<br>
+no results<br>
+depressed<br>
+stunned<br>
+bad mood<br>
+what’s the point?<br>
+despairing<br>
+unneeded<br>
+failure<br>
+cut off<br>
+coldness<br>
+lack of self-care<br>
+too late<br>
+indecision<br>
+worthlessness<br>
+submissiveness<br>
+inability to concentrate<br>
+I can’t win<br>
+disappointment<br>
+denial<br>
+I expect nothing from life<br>
+efforts are meaningless<br>
+absent-mindedness<br>
+I can’t<br>
+uselessness<br>
+forgotten<br>
+sluggish<br>
+joylessness<br>
+hopeless<br>
+depression<br>
+emotional coldness<br>
+discouragement<br>
+disorientation<br>
+inattention<br>
+low self-esteem<br>
+indifference<br>
+dead tired<br>
+numbness<br>
+fatigue<br>
+loss<br>
+compliance<br>
+suspiciousness<br>
+insensitivity<br>
+apathy<br>
 forgetfulness
 
 ## Cluster “Grief”

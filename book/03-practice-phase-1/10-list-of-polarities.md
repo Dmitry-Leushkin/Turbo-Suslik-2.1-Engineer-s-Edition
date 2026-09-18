@@ -25,814 +25,410 @@ The list is sorted alphabetically. Full run-through, worst case, clears inside a
 So, the full list:
 
 ability (to do something) - disability<br>
-abnormal - normal
-
-indifference - sympathy
-
-absolute - relative
-
-abstract - concrete
-
-acceptable - unacceptable
-
-acceptance - rejection
-
-acceptance of someone else’s points of view - unacceptance of someone else’s points of view
-
-accessibility - inaccessibility
-
-active - passive
-
-activity - passivity
-
-adequate - inadequate
-
-advancement - retreat
-
-all - nothing
-
-altruism - egoism
-
-always - never
-
-analysis - synthesis
-
-anxiety - peace
-
-anxiety - tranquility
-
-appearance - disappearance
-
-approaching to a goal - moving away from a goal
-
-arrival - departure
-
-attack - counter-attack
-
-attraction - repulsion
-
-attraction to people - rejection of people
-
-balance - compulsion
-
-beauty - ugliness
-
-beginning - end
-
-belief - disbelief
-
-benevolence - hostility
-
-better - worse
-
-big - small
-
-body - mind
-
-body - spirit
-
-boredom - interest
-
-change - stagnation
-
-chaos - order
-
-charisma - dullness
-
-cheerful - tired
-
-cheerfulness - gloominess
-
-clean - dirty
-
-communication - silence
-
-conclusion - beginning
-
-condensation - dissolution
-
-confidence - doubt
-
-confidence about the abundance of the universe - fear that you will receive nothing
-
-confirmation - denial
-
-consciousness - body
-
-consciousness - instincts
-
-consciousness - materiality
-
-consciousness - unconsciousness
-
-contempt - respect
-
-control - freedom
-
-correct - incorrect
-
-creation - destruction
-
-danger - safety
-
-darkness - light
-
-day - night
-
-decent - indecent
-
-dependence - independence
-
-depth - surface
-
-difference - similarity
-
-difference - agreement
-
-dissatisfaction - satisfaction
-
-distrust of people - trust of people
-
-divine - ordinary
-
-dominance - submission
-
-dork - charmer
-
-dream - reality
-
-dynamics - statics
-
-earthly - divine
-
-effort - apathy
-
-effort - rest
-
-emotions - lack of emotions
-
-emotions - mind
-
-emotions - reason
-
-emotions - void
-
-energetic - inactive
-
-enlightened master - moron
-
-enlightenment - ignorance
-
-entering experience - avoiding experience
-
-enthusiasm - apathy
-
-eternity - moment
-
-everybody - nobody
-
-everything depends on me - nothing depends on me
-
-existence - creation
-
-existence - non-existence
-
-expansion - compression
-
-extrovert - introvert
-
-faith - knowledge
-
-far - near
-
-fear - courage
-
-fear - peace
-
-fire - water
-
-folding - unfolding
-
-forever - temporarily
-
-form - formlessness
-
-formation - disappearance
-
-forward - backward
-
-fragrant - malodorous
-
-freedom - depression
-
-freedom - fate/karma
-
-freedom - responsibility
-
-freedom - slavery
-
-freedom - submission
-
-freedom - lack of freedom
-
-fresh - sluggish
-
-front - back
-
-full - empty
-
-fullness - emptiness
-
-fundamentality - shakiness
-
-future - past
-
-generous - mean
-
-genius - madness
-
-gently sloping - steep
-
-god - devil
-
-good - bad
-
-good - evil
-
-gratitude - ingratitude
-
-greatness - smallness
-
-happiness - grief
-
-happiness - sadness
-
-hardness - fragility
-
-heavy - light
-
-hell - heaven
-
-here - now
-
-here - there
-
-high - low
-
-honest man - swindler
-
-hopelessness - hope
-
-horizontal - vertical
-
-hot - cold
-
-hunger - satiety
-
-I am bad - I am good
-
-I am not good at anything - I am good at everything
-
-I am the source - I am not the source
-
-I am unique - I am like everybody else
-
-I exist - I don’t exist
-
-I must - I want
-
-I must be right - I am not right
-
-I want to be aware - I don’t want to be aware
-
-I want to communicate with people - I don’t want to communicate with people
-
-I-don’t-care-ness - enthusiasm
-
-ignorant people - wise people
-
-illusion - reality
-
-indifference - involvement
-
-infinitely small - infinitely large
-
-initiative - inactive
-
-inner world - outer world
-
-inside - outside
-
-intellect - emotion
-
-intellect - instincts
-
-interest - boredom
-
-interest - indifference
-
-intuition - consciousness
-
-irritation - acceptance
-
-joy - sorrow
-
-joyous - angry
-
-knowledge - action
-
-knowledge - ignorance
-
-lack of self-confidence - self-confidence
-
-laziness - willingness to act
-
-lechery - chastity
-
-left - right
-
-left hemisphere - right hemisphere
-
-life - death
-
-light - darkness
-
-lightness - heaviness
-
-limited consciousness - unlimited consciousness
-
-limitedness - limitlessness
-
-literacy - illiteracy
-
-localization - non-localization
-
-logic - creativity
-
-logic - emotions
-
-logical thinking - creative thinking
-
-long - short
-
-love - aggressiveness
-
-love - fear
-
-love - freedom
-
-love - hatred
-
-love - loneliness
-
-love - pain
-
-love - power
-
-love - refusal
-
-love of people - hatred of people
-
-luck - misfortune
-
-lucky - unlucky
-
-male - female
-
-man - woman
-
-material - emptiness
-
-material - immaterial
-
-material - spiritual
-
-material world - spiritual world
-
-material world - subtle world
-
-matter - energy
-
-matter - void
-
-me - abundance of the universe
-
-me - Buddha
-
-me - complete enlightenment
-
-me - eternity
-
-me - everyone
-
-me - extraterrestrial intelligence
-
-me - galaxy
-
-me - intuition
-
-me - life
-
-me - movement
-
-me - nothing
-
-me - others
-
-me - people
-
-me - someone else
-
-me - subtle worlds
-
-me - the whole world
-
-me - unity
-
-me - universe
-
-me - void
-
-me - world
-
-merciful - merciless
-
-minus - plus
-
-misfortune - good fortune
-
-monotony - diversity
-
-motion - immobility
-
-motion - rest
-
-motion - stopping
-
-moving - staying
-
-multitude - uniqueness
-
-must do - don’t want to do
-
-must - must not
-
-my - somebody else’s
-
-my father - my mother
-
-my wishes - somebody else’s wishes
-
-mysticism - narrow-mindedness
-
-nature - civilization
-
-near - remote
-
-negative - positive
-
-negative emotions - positive emotions
-
-noble - ignoble
-
-nobleness - baseness
-
-noise/sounds - silence
-
-now - later
-
-observer - observed
-
-old - young
-
-optimism - pessimism
-
-others are right - I am right
-
-panic - tranquillity
-
-part - whole
-
-passion - spirituality
-
-past - future
-
-path - goal
-
-peace - aggression
-
-peace - disorders
-
-peace - fear
-
-peace - power
-
-people - animals
-
-perfection - imperfection
-
-permanence - transience
-
-permanent - temporary
-
-permission - prohibition
-
-point - space
-
-point - three-dimensional object
-
-poor - wealthy
-
-positive - negative
-
-positive element - negative element
-
-positive polarity - negative polarity
-
-possible - impossible
-
-poverty - wealth
-
-power - helplessness
-
-power - impotence
-
-power of the night - power of the day
-
-presence of thoughts - absence of thoughts
-
-present - future
-
-present - past
-
-present moment - eternity
-
-progress - degradation
-
-proof - disproof
-
-prudent - imprudent
-
-quickly - slowly
-
-reason - consequence
-
-reasonable - hasty
-
-relationship - loneliness
-
-relaxation - stress
-
-resoluteness to do something - postponement
-
-responsibility - irresponsibility
-
-right - wrong
-
-saint - sinner
-
-salted - unsalted
-
-sane - insane
-
-satisfaction - displeasure
-
-scream - silence
-
-security - insecurity
-
-sensible - thoughtless
-
-sentimentalism - heartlessness
-
-separateness - integrity
-
-seriousness - light-mindedness
-
-severity - mildness
-
-shame of failure - delight of victory
-
-shining - dim
-
-short life - eternity
-
-should save one’s face - shouldn’t save one’s face
-
-silently - loudly
-
-silly - enlightened
-
-sky - earth
-
-small - big
-
-something - nothing
-
-something has to be done - nothing has to be done
-
-sorrow - joy
-
-stability - changes
-
-stability - shock
-
-standing - lying
-
-straight - curved
-
-strength - weakness
-
-structured - unstructured
-
-subject - object
-
-subtle humor - vulgar humor
-
-success - defeat
-
-success - disappointment
-
-successful - unsuccessful
-
-sun - moon
-
-sweet - not sweet
-
-symmetric - asymmetric
-
-sympathy - antipathy
-
-talent - lack of talent
-
-teacher - pupil
-
-teaching - knowledge
-
-the one who knows - the thing which is known
-
-the world is bad - the world is good
-
-the world is dangerous - the world is safe
-
-the world is unfair - the world is fair
-
-theory - practice
-
-this world - other world
-
-thrifty - thriftless
-
-to agree - to disagree
-
-to be - not to be
-
-to be always conscious of oneself - to be never conscious of oneself
-
-to be aware of the essence - to see the surface
-
-to be flexible - to be fixated on
-
-to be united with one’s roots - to be separated with them
-
-to begin - to stop
-
-to believe everything will be OK - to disbelieve everything will be OK
-
-to bless - to curse
-
-to forget - to remember
-
-to get results from “Turbo-Suslik” - to get nothing from “Turbo-Suslik”
-
-to give - to get
-
-to have a higher purpose - to live without a purpose
-
-to have a possibility to choose - to have no choice
-
-to have results - to have no results
-
-to have results of processing - to have no results of processing
-
-to have time - to have no time
-
-to know - not to know
-
-to know everything - to know nothing
-
-to know one’s predestination - to not know one’s predestination
-
-to give a gift - to take a gift
-
-to possess everything - to possess nothing
-
-to remember - to forget
-
-to see - to understand
-
-to stay - to leave
-
-to survive - to die
-
-to survive - to give up
-
-to take - to give
-
-to take responsibility - to reject responsibility
-
-to throw - to pick up
-
-to turn pale - to turn red
-
-to win - to lose
-
-to withstand - to give up
-
-tolerance - intolerance
-
-top - bottom
-
-topical - non-topical
-
-tragedy - comedy
-
-true memory - illusive memory
-
-truth - hallucinations
-
-truth - lie
-
-uncertainty - certainty
-
-uncertainty about the future - certainty about the future
-
-understanding - misunderstanding
-
-unity - duality
-
-unity - separation
-
-unity with others - isolation
-
-unpleasant - pleasant
-
-unwillingness to change - willingness to change
-
-unwillingness to live - enjoyment of life
-
-unwillingness to live - lust for life
-
-up - down
-
-usual people - enlightened people
-
-victory - defeat
-
-victory - loss
-
-virtual world - real world
-
-visibility - invisibility
-
-void - the whole world
-
-vulnerability - invulnerability
-
-war - peace
-
-wealth - poverty
-
-weekdays - holiday
-
-white - black
-
-wish to be approved - wish to approve
-
-wish to be lonely - wish to be with everyone
-
-wish to be loved - wish to love
-
-wish to be with people - unwillingness to be with people
-
-wish to control - wish to release control
-
-wish to control the others - wish to be controlled by the others
-
-wish to debate - unwillingness to debate
-
-wish to have love - wish to give love
-
-wish to live - wish to die
-
-wish to move - fear to move
-
-wish to move - unwillingness to move
-
-wish to win approval - wish to express approval
-
-wish to work - unwillingness to work
-
+abnormal - normal<br>
+indifference - sympathy<br>
+absolute - relative<br>
+abstract - concrete<br>
+acceptable - unacceptable<br>
+acceptance - rejection<br>
+acceptance of someone else’s points of view - unacceptance of someone else’s points of view<br>
+accessibility - inaccessibility<br>
+active - passive<br>
+activity - passivity<br>
+adequate - inadequate<br>
+advancement - retreat<br>
+all - nothing<br>
+altruism - egoism<br>
+always - never<br>
+analysis - synthesis<br>
+anxiety - peace<br>
+anxiety - tranquility<br>
+appearance - disappearance<br>
+approaching to a goal - moving away from a goal<br>
+arrival - departure<br>
+attack - counter-attack<br>
+attraction - repulsion<br>
+attraction to people - rejection of people<br>
+balance - compulsion<br>
+beauty - ugliness<br>
+beginning - end<br>
+belief - disbelief<br>
+benevolence - hostility<br>
+better - worse<br>
+big - small<br>
+body - mind<br>
+body - spirit<br>
+boredom - interest<br>
+change - stagnation<br>
+chaos - order<br>
+charisma - dullness<br>
+cheerful - tired<br>
+cheerfulness - gloominess<br>
+clean - dirty<br>
+communication - silence<br>
+conclusion - beginning<br>
+condensation - dissolution<br>
+confidence - doubt<br>
+confidence about the abundance of the universe - fear that you will receive nothing<br>
+confirmation - denial<br>
+consciousness - body<br>
+consciousness - instincts<br>
+consciousness - materiality<br>
+consciousness - unconsciousness<br>
+contempt - respect<br>
+control - freedom<br>
+correct - incorrect<br>
+creation - destruction<br>
+danger - safety<br>
+darkness - light<br>
+day - night<br>
+decent - indecent<br>
+dependence - independence<br>
+depth - surface<br>
+difference - similarity<br>
+difference - agreement<br>
+dissatisfaction - satisfaction<br>
+distrust of people - trust of people<br>
+divine - ordinary<br>
+dominance - submission<br>
+dork - charmer<br>
+dream - reality<br>
+dynamics - statics<br>
+earthly - divine<br>
+effort - apathy<br>
+effort - rest<br>
+emotions - lack of emotions<br>
+emotions - mind<br>
+emotions - reason<br>
+emotions - void<br>
+energetic - inactive<br>
+enlightened master - moron<br>
+enlightenment - ignorance<br>
+entering experience - avoiding experience<br>
+enthusiasm - apathy<br>
+eternity - moment<br>
+everybody - nobody<br>
+everything depends on me - nothing depends on me<br>
+existence - creation<br>
+existence - non-existence<br>
+expansion - compression<br>
+extrovert - introvert<br>
+faith - knowledge<br>
+far - near<br>
+fear - courage<br>
+fear - peace<br>
+fire - water<br>
+folding - unfolding<br>
+forever - temporarily<br>
+form - formlessness<br>
+formation - disappearance<br>
+forward - backward<br>
+fragrant - malodorous<br>
+freedom - depression<br>
+freedom - fate/karma<br>
+freedom - responsibility<br>
+freedom - slavery<br>
+freedom - submission<br>
+freedom - lack of freedom<br>
+fresh - sluggish<br>
+front - back<br>
+full - empty<br>
+fullness - emptiness<br>
+fundamentality - shakiness<br>
+future - past<br>
+generous - mean<br>
+genius - madness<br>
+gently sloping - steep<br>
+god - devil<br>
+good - bad<br>
+good - evil<br>
+gratitude - ingratitude<br>
+greatness - smallness<br>
+happiness - grief<br>
+happiness - sadness<br>
+hardness - fragility<br>
+heavy - light<br>
+hell - heaven<br>
+here - now<br>
+here - there<br>
+high - low<br>
+honest man - swindler<br>
+hopelessness - hope<br>
+horizontal - vertical<br>
+hot - cold<br>
+hunger - satiety<br>
+I am bad - I am good<br>
+I am not good at anything - I am good at everything<br>
+I am the source - I am not the source<br>
+I am unique - I am like everybody else<br>
+I exist - I don’t exist<br>
+I must - I want<br>
+I must be right - I am not right<br>
+I want to be aware - I don’t want to be aware<br>
+I want to communicate with people - I don’t want to communicate with people<br>
+I-don’t-care-ness - enthusiasm<br>
+ignorant people - wise people<br>
+illusion - reality<br>
+indifference - involvement<br>
+infinitely small - infinitely large<br>
+initiative - inactive<br>
+inner world - outer world<br>
+inside - outside<br>
+intellect - emotion<br>
+intellect - instincts<br>
+interest - boredom<br>
+interest - indifference<br>
+intuition - consciousness<br>
+irritation - acceptance<br>
+joy - sorrow<br>
+joyous - angry<br>
+knowledge - action<br>
+knowledge - ignorance<br>
+lack of self-confidence - self-confidence<br>
+laziness - willingness to act<br>
+lechery - chastity<br>
+left - right<br>
+left hemisphere - right hemisphere<br>
+life - death<br>
+light - darkness<br>
+lightness - heaviness<br>
+limited consciousness - unlimited consciousness<br>
+limitedness - limitlessness<br>
+literacy - illiteracy<br>
+localization - non-localization<br>
+logic - creativity<br>
+logic - emotions<br>
+logical thinking - creative thinking<br>
+long - short<br>
+love - aggressiveness<br>
+love - fear<br>
+love - freedom<br>
+love - hatred<br>
+love - loneliness<br>
+love - pain<br>
+love - power<br>
+love - refusal<br>
+love of people - hatred of people<br>
+luck - misfortune<br>
+lucky - unlucky<br>
+male - female<br>
+man - woman<br>
+material - emptiness<br>
+material - immaterial<br>
+material - spiritual<br>
+material world - spiritual world<br>
+material world - subtle world<br>
+matter - energy<br>
+matter - void<br>
+me - abundance of the universe<br>
+me - Buddha<br>
+me - complete enlightenment<br>
+me - eternity<br>
+me - everyone<br>
+me - extraterrestrial intelligence<br>
+me - galaxy<br>
+me - intuition<br>
+me - life<br>
+me - movement<br>
+me - nothing<br>
+me - others<br>
+me - people<br>
+me - someone else<br>
+me - subtle worlds<br>
+me - the whole world<br>
+me - unity<br>
+me - universe<br>
+me - void<br>
+me - world<br>
+merciful - merciless<br>
+minus - plus<br>
+misfortune - good fortune<br>
+monotony - diversity<br>
+motion - immobility<br>
+motion - rest<br>
+motion - stopping<br>
+moving - staying<br>
+multitude - uniqueness<br>
+must do - don’t want to do<br>
+must - must not<br>
+my - somebody else’s<br>
+my father - my mother<br>
+my wishes - somebody else’s wishes<br>
+mysticism - narrow-mindedness<br>
+nature - civilization<br>
+near - remote<br>
+negative - positive<br>
+negative emotions - positive emotions<br>
+noble - ignoble<br>
+nobleness - baseness<br>
+noise/sounds - silence<br>
+now - later<br>
+observer - observed<br>
+old - young<br>
+optimism - pessimism<br>
+others are right - I am right<br>
+panic - tranquillity<br>
+part - whole<br>
+passion - spirituality<br>
+past - future<br>
+path - goal<br>
+peace - aggression<br>
+peace - disorders<br>
+peace - fear<br>
+peace - power<br>
+people - animals<br>
+perfection - imperfection<br>
+permanence - transience<br>
+permanent - temporary<br>
+permission - prohibition<br>
+point - space<br>
+point - three-dimensional object<br>
+poor - wealthy<br>
+positive - negative<br>
+positive element - negative element<br>
+positive polarity - negative polarity<br>
+possible - impossible<br>
+poverty - wealth<br>
+power - helplessness<br>
+power - impotence<br>
+power of the night - power of the day<br>
+presence of thoughts - absence of thoughts<br>
+present - future<br>
+present - past<br>
+present moment - eternity<br>
+progress - degradation<br>
+proof - disproof<br>
+prudent - imprudent<br>
+quickly - slowly<br>
+reason - consequence<br>
+reasonable - hasty<br>
+relationship - loneliness<br>
+relaxation - stress<br>
+resoluteness to do something - postponement<br>
+responsibility - irresponsibility<br>
+right - wrong<br>
+saint - sinner<br>
+salted - unsalted<br>
+sane - insane<br>
+satisfaction - displeasure<br>
+scream - silence<br>
+security - insecurity<br>
+sensible - thoughtless<br>
+sentimentalism - heartlessness<br>
+separateness - integrity<br>
+seriousness - light-mindedness<br>
+severity - mildness<br>
+shame of failure - delight of victory<br>
+shining - dim<br>
+short life - eternity<br>
+should save one’s face - shouldn’t save one’s face<br>
+silently - loudly<br>
+silly - enlightened<br>
+sky - earth<br>
+small - big<br>
+something - nothing<br>
+something has to be done - nothing has to be done<br>
+sorrow - joy<br>
+stability - changes<br>
+stability - shock<br>
+standing - lying<br>
+straight - curved<br>
+strength - weakness<br>
+structured - unstructured<br>
+subject - object<br>
+subtle humor - vulgar humor<br>
+success - defeat<br>
+success - disappointment<br>
+successful - unsuccessful<br>
+sun - moon<br>
+sweet - not sweet<br>
+symmetric - asymmetric<br>
+sympathy - antipathy<br>
+talent - lack of talent<br>
+teacher - pupil<br>
+teaching - knowledge<br>
+the one who knows - the thing which is known<br>
+the world is bad - the world is good<br>
+the world is dangerous - the world is safe<br>
+the world is unfair - the world is fair<br>
+theory - practice<br>
+this world - other world<br>
+thrifty - thriftless<br>
+to agree - to disagree<br>
+to be - not to be<br>
+to be always conscious of oneself - to be never conscious of oneself<br>
+to be aware of the essence - to see the surface<br>
+to be flexible - to be fixated on<br>
+to be united with one’s roots - to be separated with them<br>
+to begin - to stop<br>
+to believe everything will be OK - to disbelieve everything will be OK<br>
+to bless - to curse<br>
+to forget - to remember<br>
+to get results from “Turbo-Suslik” - to get nothing from “Turbo-Suslik”<br>
+to give - to get<br>
+to have a higher purpose - to live without a purpose<br>
+to have a possibility to choose - to have no choice<br>
+to have results - to have no results<br>
+to have results of processing - to have no results of processing<br>
+to have time - to have no time<br>
+to know - not to know<br>
+to know everything - to know nothing<br>
+to know one’s predestination - to not know one’s predestination<br>
+to give a gift - to take a gift<br>
+to possess everything - to possess nothing<br>
+to remember - to forget<br>
+to see - to understand<br>
+to stay - to leave<br>
+to survive - to die<br>
+to survive - to give up<br>
+to take - to give<br>
+to take responsibility - to reject responsibility<br>
+to throw - to pick up<br>
+to turn pale - to turn red<br>
+to win - to lose<br>
+to withstand - to give up<br>
+tolerance - intolerance<br>
+top - bottom<br>
+topical - non-topical<br>
+tragedy - comedy<br>
+true memory - illusive memory<br>
+truth - hallucinations<br>
+truth - lie<br>
+uncertainty - certainty<br>
+uncertainty about the future - certainty about the future<br>
+understanding - misunderstanding<br>
+unity - duality<br>
+unity - separation<br>
+unity with others - isolation<br>
+unpleasant - pleasant<br>
+unwillingness to change - willingness to change<br>
+unwillingness to live - enjoyment of life<br>
+unwillingness to live - lust for life<br>
+up - down<br>
+usual people - enlightened people<br>
+victory - defeat<br>
+victory - loss<br>
+virtual world - real world<br>
+visibility - invisibility<br>
+void - the whole world<br>
+vulnerability - invulnerability<br>
+war - peace<br>
+wealth - poverty<br>
+weekdays - holiday<br>
+white - black<br>
+wish to be approved - wish to approve<br>
+wish to be lonely - wish to be with everyone<br>
+wish to be loved - wish to love<br>
+wish to be with people - unwillingness to be with people<br>
+wish to control - wish to release control<br>
+wish to control the others - wish to be controlled by the others<br>
+wish to debate - unwillingness to debate<br>
+wish to have love - wish to give love<br>
+wish to live - wish to die<br>
+wish to move - fear to move<br>
+wish to move - unwillingness to move<br>
+wish to win approval - wish to express approval<br>
+wish to work - unwillingness to work<br>
 wise man - stupid jerk
 
 ---
