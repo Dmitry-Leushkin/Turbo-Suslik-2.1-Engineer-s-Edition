@@ -1,82 +1,100 @@
-# Copyright and Temporary Rights Notice
+# Copyright and License
 
 [Book contents](../README.md) | [Part contents](README.md)
 
-Dmitry Leushkin is the author of the Turbo-Suslik System, its original protocols - structured instructions intended for subconscious processing - and the original methods of application described in this book. Copyright applies to the text of this book, the wording and structure of the protocols, the selection and arrangement of the material, the explanations, and other original forms of expression.
+© 2008–2026 Dmitry E. Leushkin
 
-Third-Party Materials
+**Work:** *Turbo-Suslik 2.1: Engineer’s Edition*<br>
+**Edition:** Engineer’s Edition, 2026<br>
+**Author and copyright holder:** Dmitry E. Leushkin
 
-This book refers to techniques created by other authors:
+Dmitry E. Leushkin is the author of the Turbo-Suslik System, its original protocols, and the original material presented in this book.
 
-- PEAT and DP-4 - Zivorad Slavinski;
-- BSFF - Larry Nims;
-- EFT - Gary Craig.
+Copyright protects the text of this book, the original wording and structure of the protocols, the selection and arrangement of the material, the explanations, and other original forms of expression. It does not restrict the use of ideas, facts, methods, or principles that are not protected by copyright.
 
-All rights in the original descriptions, materials, and protected names associated with these techniques remain with their respective rights holders. Their inclusion or mention in this book does not imply any transfer of rights or claim of authorship.
+## Creative Commons License
 
-Temporary Licensing Status
+Except for third-party materials identified below or elsewhere in the book, this edition is licensed under the:
 
-This edition is not currently distributed under a Creative Commons license or any other public license.
+**Creative Commons Attribution–NonCommercial 4.0 International License<br>
+(CC BY-NC 4.0)**
 
-A draft Creative Commons notice contained in a template, repository branch, development file, or unpublished source document does not constitute a license grant. A Creative Commons license will take effect only when it is expressly identified as the active license in an officially published edition of the book. Until that replacement occurs, all rights not expressly granted below are reserved.
+License:<br>
+https://creativecommons.org/licenses/by-nc/4.0/
 
-Permitted Use
+Under this license, you may:
 
-Without obtaining separate permission, readers may:
+- copy and redistribute the book in any medium or format;
+- publish and distribute complete or partial copies;
+- convert the book into other electronic formats;
+- produce and distribute printed copies;
+- translate, abridge, expand, modify, remix, or otherwise adapt the material;
+- create and distribute derivative works.
 
-- read the book online;
-- download and store electronic copies for personal, noncommercial use;
-- access the book’s official public source repository;
-- use GitHub functions made available under GitHub’s Terms of Service;
-- share links to the official book page or repository;
-- quote limited portions of the book where permitted by applicable law, provided that the author and source are identified. (Official source: [https://turbo-suslik.ru/en/](<https://turbo-suslik.ru/en/>))
+These permissions apply only to noncommercial use and are subject to the terms of the CC BY-NC 4.0 license.
 
-Official Affiliate Program
+When sharing the original or modified material, you must:
 
-Notwithstanding the restrictions stated below, registered participants in the official Turbo-Suslik affiliate program are authorized to reproduce, host, upload, and distribute the official electronic affiliate edition supplied or approved by the copyright holder.
+- give appropriate credit to Dmitry E. Leushkin;
+- identify the original work;
+- provide a link to the official source where reasonably practicable;
+- provide a link to the CC BY-NC 4.0 license;
+- indicate whether changes were made;
+- retain an indication of any previous modifications;
+- not imply that the author endorses you, your organization, or your use of the material;
+- not impose legal or technological restrictions that prevent others from exercising the rights granted by the license.
 
-The affiliate edition must be provided to readers free of charge and must retain the participant’s assigned affiliate link, all copyright notices, and all licensing notices included in the supplied file. Participants may receive commissions from subsequent purchases made through their assigned affiliate links in accordance with the terms of the official affiliate program.
+The full legal text of the license controls if there is any conflict between this notice and the license:
 
-This is a limited exception to the prohibition on redistribution and commercial use. It applies only to registered participants, only to the official electronic edition supplied or approved for affiliate distribution, and only while the participant complies with the applicable affiliate program terms.
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
-This authorization does not permit participants to:
+## Recommended Attribution
 
-- sell the electronic book or charge for access to it;
-- modify the book other than through changes expressly authorized by the copyright holder;
-- remove or replace copyright, attribution, licensing, or affiliate information;
-- create or distribute derivative editions;
-- produce or distribute printed copies;
-- sublicense the book or authorize redistribution by other persons;
-- use the book outside the official affiliate program.
+“Dmitry E. Leushkin, *Turbo-Suslik 2.1: Engineer’s Edition*, 2026. Official source: https://mindrefactory.dev/. Licensed under CC BY-NC 4.0.”
 
-Persons who are not registered participants in the official affiliate program receive no rights under this exception.
+For modified materials, the following notice is recommended:
 
-Uses Not Currently Authorized
+“This material is adapted from *Turbo-Suslik 2.1: Engineer’s Edition* by Dmitry E. Leushkin. Changes were made. This adaptation is not an official edition and is not endorsed by the author. The original work is available at https://mindrefactory.dev/.”
 
-Except as expressly permitted under the sections **Permitted Use** and **Official Affiliate Program**, by applicable law, or by a separate written agreement, you may not:
+## Scope of This License
 
-- republish or redistribute the complete electronic book or a substantial part of it;
-- upload or mirror the book on third-party websites, repositories, file-sharing services, social networks, or other platforms;
-- translate, abridge, expand, modify, or otherwise adapt the text;
-- create or distribute derivative editions;
-- manufacture or distribute printed copies;
-- sell the book or charge for access to it;
-- include the book or substantial portions of it in a commercial product, service, course, subscription, database, or publication;
-- grant sublicenses or represent that the material is available under an open or Creative Commons license.
+This license applies only to *Turbo-Suslik 2.1: Engineer’s Edition, 2026*, and only to material for which Dmitry E. Leushkin holds the necessary rights.
 
-Making the source files publicly visible does not place the work in the public domain and does not grant permission to reproduce, distribute, modify, or commercially exploit the work outside the limited functions provided by the hosting platform.
+Other editions of Turbo-Suslik remain governed by the copyright and licensing notices included in those editions.
 
-Existing Retail Edition
+This notice replaces any previous copyright or temporary licensing notice used for this edition. The CC BY-NC 4.0 license takes effect for this edition on 28 October 2026.
 
-The English-language retail edition released through BookBaby in 2015 remains subject to the applicable distribution and retailer agreements while its withdrawal from those channels is being completed.
+## Third-Party Materials
 
-Copies previously purchased through authorized retailers remain subject to the terms under which they were acquired.
+This book may refer to techniques created by other authors, including:
 
-Replacement of This Notice
+- PEAT and DP-4 — Zivorad Slavinski;
+- BSFF — Larry Nims;
+- EFT — Gary Craig.
 
-This is a temporary rights notice. It remains effective until it is expressly replaced in an officially published edition by a new licensing notice issued by the copyright holder.
+Rights in independently protected third-party descriptions, materials, trademarks, and other content remain with their respective rights holders.
 
-The intended future license is Creative Commons Attribution – NonCommercial 4.0 International (CC BY-NC 4.0). That license is not yet in effect.
+The CC BY-NC 4.0 license does not grant rights in third-party material that Dmitry E. Leushkin does not own or have authority to license. References to third-party techniques do not imply ownership, affiliation, approval, or endorsement.
+
+## Commercial Use
+
+The CC BY-NC 4.0 license does not authorize use that is primarily intended for commercial advantage or monetary compensation.
+
+Commercial publication, distribution, licensing, incorporation into paid products or services, or other commercial use requires separate written permission from the copyright holder, except as expressly permitted under the official affiliate program below.
+
+## Official Affiliate Program
+
+Registered participants in the official Turbo-Suslik affiliate program may distribute the authorized electronic edition supplied to them with their assigned affiliate link and may receive compensation under the terms of that program.
+
+This is separate authorization for that specific commercial activity. It applies only to registered participants, only to the authorized affiliate edition, and only while the participant complies with the applicable program terms.
+
+It does not authorize participants to sell the book, charge for access to it, create unauthorized modified editions, remove copyright or licensing notices, replace affiliate links, grant sublicenses, or use the book outside the official affiliate program.
+
+## No Endorsement or Trademark License
+
+Use of this book or its materials does not imply endorsement by Dmitry E. Leushkin.
+
+The CC BY-NC 4.0 license does not grant trademark rights or permission to use the Turbo-Suslik name, Mind ReFactory identity, logos, or associated marks in a manner that suggests an official edition, affiliation, sponsorship, or endorsement.
 
 ---
 

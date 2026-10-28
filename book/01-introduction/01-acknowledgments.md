@@ -30,4 +30,4 @@ To my beloved wife, **Oksana**. Without her, this book simply would not exist.
 
 ---
 
-[Previous: Introduction](README.md) | [Book contents](../README.md) | [Next: Copyright and Temporary Rights Notice](02-copyright-and-temporary-rights-notice.md)
+[Previous: Introduction](README.md) | [Book contents](../README.md) | [Next: Copyright and License](02-copyright-and-temporary-rights-notice.md)

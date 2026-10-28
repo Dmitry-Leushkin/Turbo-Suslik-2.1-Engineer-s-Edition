@@ -83,4 +83,4 @@ The same applies to any other fields or schools - psychology, psychotherapy, NLP
 
 ---
 
-[Previous: Copyright and Temporary Rights Notice](02-copyright-and-temporary-rights-notice.md) | [Book contents](../README.md) | [Next: Instead of a Preface - Who This Book Is For](04-instead-of-a-preface-who-this-book-is-for.md)
+[Previous: Copyright and License](02-copyright-and-temporary-rights-notice.md) | [Book contents](../README.md) | [Next: Instead of a Preface - Who This Book Is For](04-instead-of-a-preface-who-this-book-is-for.md)
