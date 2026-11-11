@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.24138389"><img src="https://zenodo.org/badge/1375800645.svg" alt="DOI"></a>
+</p>
+
 # Turbo-Suslik 2.1: Engineer's Edition
 
 **By Dmitry Leushkin**

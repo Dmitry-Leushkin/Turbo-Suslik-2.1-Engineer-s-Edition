@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this framework or protocol documentation in your research, please cite it using these metadata."
+type: software
+title: "Turbo-Suslik System 2.1: Engineer's Edition"
+version: "2.1"
+date-released: "2026-09-01"
+url: "https://mindrefactory.dev"
+repository-code: "https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.1-Engineer-s-Edition"
+doi: "10.5281/zenodo.24138390"
+authors:
+  - family-names: "Leushkin"
+    given-names: "Dmitry"
+    orcid: "https://orcid.org/0009-0002-8682-9647"
+keywords:
+  - "cognitive-architecture"
+  - "protocol-based-processing"
+  - "self-regulation"
+  - "human-optimization-framework"
+  - "semantic-regulation"
+abstract: >-
+  Turbo-Suslik is a protocol-based system for working with persistent emotional
+  reactions, beliefs, behavioral patterns, and other mental material. The
+  Engineer's Edition presents the system in a more technical language: protocols
+  as instructions, mental material as interconnected networks, and processing as
+  a change in the way those networks influence attention, emotion, bodily
+  reactions, and behavior.
+preferred-citation:
+  type: report
+  title: "Language-Based Cognitive Interventions: A Scoping Review of Linguistic Cues, Task-Framing, and Self-Directed Cognitive Change"
+  authors:
+    - family-names: "Leushkin"
+      given-names: "Dmitry"
+  doi: "10.2139/ssrn.7307398"
+  year: 2026
+  institution:
+    name: "Human Optimization Framework (HOF Research)"
+    website: "https://hof-research.org"
