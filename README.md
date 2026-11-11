@@ -55,6 +55,7 @@ Prefer a less technical presentation?
 
 * [Mind ReFactory](https://mindrefactory.dev/)
 * [Official Turbo-Suslik website](https://turbo-suslik.ru/en/)
+* [HOF Research](https://hof-research.org/)
 
 ## Copyright and use
 
